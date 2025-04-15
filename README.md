@@ -2,6 +2,8 @@
 
 A sophisticated ComputerCraft turtle program for safely placing and detonating TNT in a 3D pattern. This program allows for precise TNT placement with automated return-to-home functionality.
 
+https://bubnugs-coding.github.io/ComputerCraft-TNT-Placer
+
 ## Features
 
 - Places TNT in a 3D cross pattern (4 TNT blocks per layer)
